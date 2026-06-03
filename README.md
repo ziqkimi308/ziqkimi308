@@ -1,6 +1,9 @@
 <div align="center">
 
-# Haziq Hakimi
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&color=00FF00&center=true&width=600&height=100&lines=Haziq+Hakimi" alt="Typing SVG" />
+</p>
+
 
 ### Cloud DevOps & Systems | Web Developer
 
