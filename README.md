@@ -1,24 +1,12 @@
 <div align="center">
 
-<!--
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&color=00FF00&center=true&width=600&height=100&lines=Haziq+Hakimi" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF4444&center=true&vCenter=true&width=700&height=60&lines=Cloud+DevOps+%26+Systems+%7C+Web+Developer" alt="subtitle" />
+  <img src="./subtitle.svg" alt="subtitle" />
 </p>
--->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&color=00FF00&center=true&vCenter=true&width=700&height=100&lines=Haziq+Hakimi" alt="name" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&weight=700&color=FF4444&center=true&vCenter=true&width=700&height=50&lines=Cloud+DevOps+%26+Systems" alt="track1" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&weight=700&color=4FC3F7&center=true&vCenter=true&width=400&height=50&lines=Web+Developer" alt="track2" 
-</p>
-
-### Cloud DevOps & Systems | Web Developer
 
 *Building hands-on, employer-facing projects across cloud infrastructure and full-stack web development.*
 
