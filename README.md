@@ -1,19 +1,13 @@
 <div align="center">
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&color=00FF00&center=true&width=600&height=100&lines=Haziq+Hakimi" alt="Typing SVG" />
-</p>
-
-<p align="center">
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=65&pause=1000&color=00FF00&center=true&width=600&height=100&lines=Haziq+Hakimi" alt="Typing SVG" />
   <img src="./subtitle.svg" alt="subtitle" />
-</p>
 
 *Building hands-on, employer-facing projects across cloud infrastructure and full-stack web development.*
 
 [![Email](https://img.shields.io/badge/Email-haziqhakimiyes%40gmail.com-blueviolet?style=flat-square&logo=gmail&logoColor=white)](mailto:haziqhakimiyes@gmail.com)&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-ziqkimi--portfolio.vercel.app-gradient?style=flat-square&logo=vercel&logoColor=white)](https://ziqkimi-portfolio.vercel.app)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-ziqkimi308-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/ziqkimi308)
-
 
 </div>
 
