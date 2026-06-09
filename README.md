@@ -6,7 +6,9 @@
 *Building hands-on, employer-facing projects across cloud infrastructure and full-stack web development.*
 
 [![Email](https://img.shields.io/badge/Email-haziqhakimiyes%40gmail.com-blueviolet?style=flat-square&logo=gmail&logoColor=white)](mailto:haziqhakimiyes@gmail.com)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-ziqkimi--portfolio.vercel.app-gradient?style=flat-square&logo=vercel&logoColor=white)](https://ziqkimi-portfolio.vercel.app)&nbsp;&nbsp;
+<a href="https://ziqkimi-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-ziqkimi--portfolio.vercel.app-gradient?style=flat-square&logo=vercel&logoColor=white" />
+</a>&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-ziqkimi308-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/ziqkimi308)
 
 </div>
