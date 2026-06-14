@@ -22,14 +22,21 @@ I'm a developer based in **Kuala Lumpur, Malaysia**, focused on building a struc
 ## 🎓 Certifications
 
 <div style="display: flex; justify-content: center; gap: 20px;">
+  <!-- AWS AI Practitioner Challenge -->L
   <a href="https://www.udacity.com/certificate/e/7cc36496-3b05-11f1-8205-5f346dcdac46">
     <img src="./aws-ai-practitioner-challenge.png" alt="AWS AI Practitioner" width="200"/>
   </a>
+  <!-- CompTIA ITF+ -->
   <a href="https://www.credly.com/badges/fd0fc77b-c6cc-42c5-b579-0efd2df05712/public_url">
     <img src="./comptia-itf.png" alt="CompTIA ITF+" width="200"/>
   </a>
+  <!-- OPSWAT -->
   <a href="https://www.credly.com/badges/30fca971-22b7-46ed-b702-d11826c4c88c/public_url">
     <img src="./opswat-icip.png" alt="OPSWAT ICIP" width="200"/>
+  </a>
+  <!-- KodeKlaude Docker -->
+  <a href="https://www.credly.com/badges/30fca971-22b7-46ed-b702-d11826c4c88c/public_url">
+    <img src="./KodeKlaude_docker.png" alt="KodeKlaude_docker" width="120"/>
   </a>
 </div>
 
