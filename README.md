@@ -35,7 +35,7 @@ I'm a developer based in **Kuala Lumpur, Malaysia**, focused on building a struc
     <img src="./opswat-icip.png" alt="OPSWAT ICIP" width="200"/>
   </a>
   <!-- KodeKlaude Docker -->
-  <a href="https://www.credly.com/badges/30fca971-22b7-46ed-b702-d11826c4c88c/public_url">
+  <a href="https://engineer.kodekloud.com/certificate-verification/5a1397be-3841-4ea6-a61b-d82b2633588d">
     <img src="./KodeKlaude_docker.png" alt="KodeKlaude_docker" width="120"/>
   </a>
 </div>
