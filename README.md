@@ -102,25 +102,6 @@ I'm a developer based in **Kuala Lumpur, Malaysia**, focused on building a struc
 ![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-000000?style=for-the-badge&logo=dotenv&logoColor=white)
 
-<br><br>
-
-## 📂 Projects (Updating...)
-
-### 💭 Cloud DevOps & Systems
-- [Task Manager CLI](link-to-repo) – Python + SQLite
-- [Laravel API Series](link-to-repo) – Authentication, Notifications
-- [AWS Resume Projects](link-to-repo) – CloudIgnite bootcamp labs
-
-### 🗃️ Scripting
-- [Task Manager CLI](link-to-repo) – Python + SQLite
-- [Laravel API Series](link-to-repo) – Authentication, Notifications
-- [AWS Resume Projects](link-to-repo) – CloudIgnite bootcamp labs
-
-### 🌐 Web Dev
-- [Task Manager CLI](link-to-repo) – Python + SQLite
-- [Laravel API Series](link-to-repo) – Authentication, Notifications
-- [AWS Resume Projects](link-to-repo) – CloudIgnite bootcamp labs
-
 <br>
 
 ## 📊 Informative Charts
