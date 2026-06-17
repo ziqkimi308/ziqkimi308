@@ -43,7 +43,7 @@ I'm a developer based in **Kuala Lumpur, Malaysia**, focused on building a struc
   &nbsp;
 
   <!-- Data Analytics Job Simulation -->
-  <a href="#">
+  <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a2a2ae87542d6524c2bac4b_1781663191891_completion_certificate.pdf">
     <img src="./data-analytics-job-simulation.png" alt="Data Analytics Job Simulation" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
   &nbsp;
