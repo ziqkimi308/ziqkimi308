@@ -19,6 +19,84 @@ I'm a developer based in **Kuala Lumpur, Malaysia**, focused on building a struc
 
 <br>
 
+## 🎓 Certifications & Badges
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+  <!-- AWS AI Practitioner Challenge -->
+  <a href="https://www.udacity.com/certificate/e/7cc36496-3b05-11f1-8205-5f346dcdac46">
+    <img src="./aws-ai-practitioner-challenge.png" alt="AWS AI Practitioner" width="100"/>
+  </a>
+
+  <!-- Advanced React -->
+  <a href="#">
+    <img src="./advanced-react.png" alt="Advanced React" width="100"/>
+  </a>
+
+  <!-- CompTIA IT Fundamentals (ITF+) -->
+  <a href="https://www.credly.com/badges/fd0fc77b-c6cc-42c5-b579-0efd2df05712/public_url">
+    <img src="./comptia-itf.png" alt="CompTIA ITF+" width="100"/>
+  </a>
+
+  <!-- Data Analytics Job Simulation -->
+  <a href="#">
+    <img src="./data-analytics-job-simulation.png" alt="Data Analytics Job Simulation" width="100"/>
+  </a>
+
+  <!-- DataCamp - Intermediate SQL -->
+  <a href="#">
+    <img src="./datacamp-intermediate-sql.png" alt="DataCamp Intermediate SQL" width="100"/>
+  </a>
+
+  <!-- DataCamp - Introduction to SQL -->
+  <a href="#">
+    <img src="./datacamp-introduction-sql.png" alt="DataCamp Introduction to SQL" width="100"/>
+  </a>
+
+  <!-- DataCamp - Joining Data in SQL -->
+  <a href="#">
+    <img src="./datacamp-joining-data-sql.png" alt="DataCamp Joining Data in SQL" width="100"/>
+  </a>
+
+  <!-- Learn React -->
+  <a href="#">
+    <img src="./learn-react.png" alt="Learn React" width="100"/>
+  </a>
+
+  <!-- Agentic AI for All -->
+  <a href="#">
+    <img src="./agentic-ai-for-all.png" alt="Agentic AI for All" width="100"/>
+  </a>
+
+  <!-- AI APPRECIATE BADGE -->
+  <a href="#">
+    <img src="./ai-appreciate-badge.png" alt="AI Appreciate Badge" width="100"/>
+  </a>
+
+  <!-- AI AWARE BADGE -->
+  <a href="#">
+    <img src="./ai-aware-badge.png" alt="AI Aware Badge" width="100"/>
+  </a>
+
+  <!-- The Frontend Developer Career Path -->
+  <a href="#">
+    <img src="./frontend-developer-career-path.png" alt="Frontend Developer Career Path" width="100"/>
+  </a>
+
+  <!-- OPSWAT ICIP -->
+  <a href="https://www.credly.com/badges/30fca971-22b7-46ed-b702-d11826c4c88c/public_url">
+    <img src="./opswat-icip.png" alt="OPSWAT ICIP" width="100"/>
+  </a>
+
+  <!-- KodeKloud Docker -->
+  <a href="https://engineer.kodekloud.com/certificate-verification/5a1397be-3841-4ea6-a61b-d82b2633588d">
+    <img src="./kodekloud-docker.png" alt="KodeKloud Docker" width="100"/>
+  </a>
+
+</div>
+
+<br>
+
 ## 🎓 Certifications
 
 <div style="display: flex; justify-content: center; gap: 20px;">
