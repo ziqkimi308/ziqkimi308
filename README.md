@@ -75,19 +75,19 @@ I'm a developer based in **Kuala Lumpur, Malaysia**, focused on building a struc
 
   <!-- ===== DATACAMP GROUP ===== -->
   <!-- DataCamp - Joining Data in SQL -->
-  <a href="https://www.datacamp.com/courses/joining-data-in-sql?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage">
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/0fac885faeb84e6a0356df5356b6a3197e63cd4b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa">
     <img src="./datacamp-joining-data-sql.png" alt="DataCamp Joining Data in SQL" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
   &nbsp;
 
   <!-- DataCamp - Introduction to SQL -->
-  <a href="https://www.datacamp.com/courses/introduction-to-sql?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage">
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e75dfcccfa038d7ff1858930130ef6f830ef831b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa">
     <img src="./datacamp-introduction-sql.png" alt="DataCamp Introduction to SQL" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
   &nbsp;
 
   <!-- DataCamp - Intermediate SQL -->
-  <a href="https://www.datacamp.com/courses/intermediate-sql?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage">
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/4d6a44443a7cca1ecea25aef7bcd7b794973dd67">
     <img src="./datacamp-intermediate-sql.png" alt="DataCamp Intermediate SQL" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
   &nbsp;
