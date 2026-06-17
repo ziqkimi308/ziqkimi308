@@ -21,103 +21,92 @@ I'm a developer based in **Kuala Lumpur, Malaysia**, focused on building a struc
 
 ## 🎓 Certifications & Badges
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
   <!-- AWS AI Practitioner Challenge -->
   <a href="https://www.udacity.com/certificate/e/7cc36496-3b05-11f1-8205-5f346dcdac46">
-    <img src="./aws-ai-practitioner-challenge.png" alt="AWS AI Practitioner" width="100"/>
+    <img src="./aws-ai-practitioner-challenge.png" alt="AWS AI Practitioner" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- Advanced React -->
-  <a href="#">
-    <img src="./advanced-react.png" alt="Advanced React" width="100"/>
+  <a href="https://scrimba.com/@ziqkimi308:certs;cert2JbLs3qgBCDWUDceTMkX2NTs1LeRJvChFfn1fb">
+    <img src="./advanced-react.png" alt="Advanced React" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- CompTIA IT Fundamentals (ITF+) -->
   <a href="https://www.credly.com/badges/fd0fc77b-c6cc-42c5-b579-0efd2df05712/public_url">
-    <img src="./comptia-itf.png" alt="CompTIA ITF+" width="100"/>
+    <img src="./comptia-itf.png" alt="CompTIA ITF+" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- Data Analytics Job Simulation -->
   <a href="#">
-    <img src="./data-analytics-job-simulation.png" alt="Data Analytics Job Simulation" width="100"/>
+    <img src="./data-analytics-job-simulation.png" alt="Data Analytics Job Simulation" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- DataCamp - Intermediate SQL -->
-  <a href="#">
-    <img src="./datacamp-intermediate-sql.png" alt="DataCamp Intermediate SQL" width="100"/>
+  <a href="https://www.datacamp.com/courses/intermediate-sql?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage">
+    <img src="./datacamp-intermediate-sql.png" alt="DataCamp Intermediate SQL" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- DataCamp - Introduction to SQL -->
-  <a href="#">
-    <img src="./datacamp-introduction-sql.png" alt="DataCamp Introduction to SQL" width="100"/>
+  <a href="https://www.datacamp.com/courses/introduction-to-sql?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage">
+    <img src="./datacamp-introduction-sql.png" alt="DataCamp Introduction to SQL" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- DataCamp - Joining Data in SQL -->
-  <a href="#">
-    <img src="./datacamp-joining-data-sql.png" alt="DataCamp Joining Data in SQL" width="100"/>
+  <a href="https://www.datacamp.com/courses/joining-data-in-sql?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage">
+    <img src="./datacamp-joining-data-sql.png" alt="DataCamp Joining Data in SQL" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- Learn React -->
-  <a href="#">
-    <img src="./learn-react.png" alt="Learn React" width="100"/>
+  <a href="https://scrimba.com/@ziqkimi308:certs;cert24zAwPPowRHt5op3bX549nHtgKc6PBeQmDEBa">
+    <img src="./learn-react.png" alt="Learn React" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- Agentic AI for All -->
   <a href="#">
-    <img src="./agentic-ai-for-all.png" alt="Agentic AI for All" width="100"/>
+    <img src="./agentic-ai-for-all.png" alt="Agentic AI for All" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- AI APPRECIATE BADGE -->
-  <a href="#">
-    <img src="./ai-appreciate-badge.png" alt="AI Appreciate Badge" width="100"/>
+  <a href="https://portal.rakyatdigital.gov.my/#/badge?id=U2FsdGVkX19yjqLCdwFMtJ3nfaIwokI78DUhIfS6nioBSNo30syRLv3TglDHWGiR">
+    <img src="./ai-appreciate-badge.png" alt="AI Appreciate Badge" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- AI AWARE BADGE -->
-  <a href="#">
-    <img src="./ai-aware-badge.png" alt="AI Aware Badge" width="100"/>
+  <a href="https://portal.rakyatdigital.gov.my/#/badge?id=U2FsdGVkX181Jt6rX0R6RG5trFWYZwF72b9ONxWiOs1L2a3S4hW6iz9sVEzSuip87Aip1L2u3SeEpb">
+    <img src="./ai-aware-badge.png" alt="AI Aware Badge" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- The Frontend Developer Career Path -->
-  <a href="#">
-    <img src="./frontend-developer-career-path.png" alt="Frontend Developer Career Path" width="100"/>
+  <a href="https://scrimba.com/@ziqkimi308:certs;cert24zAwPPowRHt5op3bX549nK8bG1YMdce7H8D6">
+    <img src="./frontend-developer-career-path.png" alt="Frontend Developer Career Path" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- OPSWAT ICIP -->
   <a href="https://www.credly.com/badges/30fca971-22b7-46ed-b702-d11826c4c88c/public_url">
-    <img src="./opswat-icip.png" alt="OPSWAT ICIP" width="100"/>
+    <img src="./opswat-icip.png" alt="OPSWAT ICIP" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
+  &nbsp;
 
   <!-- KodeKloud Docker -->
   <a href="https://engineer.kodekloud.com/certificate-verification/5a1397be-3841-4ea6-a61b-d82b2633588d">
-    <img src="./kodekloud-docker.png" alt="KodeKloud Docker" width="100"/>
+    <img src="./KodeKlaude_docker.png" alt="KodeKloud Docker" width="85" style="height: 85px; object-fit: cover; border-radius: 8px;"/>
   </a>
 
 </div>
-
-<br>
-
-## 🎓 Certifications
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <!-- AWS AI Practitioner Challenge -->L
-  <a href="https://www.udacity.com/certificate/e/7cc36496-3b05-11f1-8205-5f346dcdac46">
-    <img src="./aws-ai-practitioner-challenge.png" alt="AWS AI Practitioner" width="200"/>
-  </a>
-  <!-- CompTIA ITF+ -->
-  <a href="https://www.credly.com/badges/fd0fc77b-c6cc-42c5-b579-0efd2df05712/public_url">
-    <img src="./comptia-itf.png" alt="CompTIA ITF+" width="200"/>
-  </a>
-  <!-- OPSWAT -->
-  <a href="https://www.credly.com/badges/30fca971-22b7-46ed-b702-d11826c4c88c/public_url">
-    <img src="./opswat-icip.png" alt="OPSWAT ICIP" width="200"/>
-  </a>
-  <!-- KodeKlaude Docker -->
-  <a href="https://engineer.kodekloud.com/certificate-verification/5a1397be-3841-4ea6-a61b-d82b2633588d">
-    <img src="./KodeKlaude_docker.png" alt="KodeKlaude_docker" width="120"/>
-  </a>
-</div>
-
 
 <br>
 
