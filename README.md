@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=65&pause=1000&color=00FF00&center=true&width=600&height=100&lines=Haziq+Hakimi" alt="Typing SVG" />
   <img src="./subtitle.svg" alt="subtitle" />
 
-*Building hands-on, employer-facing projects in cloud infrastructure, systems administration, and backend API development.*
+*"Working on practical projects in cloud infrastructure, systems admin, and backend API development."*
 
 [![Email](https://img.shields.io/badge/Email-haziqhakimiyes%40gmail.com-blueviolet?style=flat-square&logo=gmail&logoColor=white)](mailto:haziqhakimiyes@gmail.com)&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-ziqkimi--portfolio.vercel.app-gradient?style=flat-square&logo=vercel&logoColor=white)](https://ziqkimi-portfolio.vercel.app)&nbsp;&nbsp;
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an engineering graduate based in **Kuala Lumpur, Malaysia**, specializing in cloud DevOps, systems administration, and IT support to build resilient digital infrastructure. My goal is to secure a junior Cloud DevOps or IT operations role, with a long-term path toward DevOps engineering.
+Detail-oriented engineering graduate with a strong foundation in cloud infrastructure and software development. Backed by hands-on experience in AWS infrastructure, system programming, and web development. Proficient in building REST APIs and automation scripts across PHP, Python, JavaScript, and C. Currently completing the intensive AWS re/Start programme and actively targeting entry-level roles in cloud operations, technical support, or IT helpdesk to leverage strong technical troubleshooting skills.
 
 <br>
 
@@ -179,9 +179,9 @@ I'm an engineering graduate based in **Kuala Lumpur, Malaysia**, specializing in
 
 ![Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ziqkimi308&theme=dracula)
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ziqkimi308&theme=tokyonight)
+<!-- ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ziqkimi308&theme=tokyonight) -->
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ziqkimi308&theme=radical)
+<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ziqkimi308&theme=radical) -->
 
 <br><br>
 ---
