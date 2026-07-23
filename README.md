@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Detail-oriented engineering graduate with a strong foundation in cloud infrastructure and software development. Backed by hands-on experience in AWS infrastructure, system programming, and web development. Proficient in building REST APIs and automation scripts across PHP, Python, JavaScript, and C. Currently completing the intensive AWS re/Start programme and actively targeting entry-level roles in cloud operations, technical support, or IT helpdesk to leverage strong technical troubleshooting skills.
+Engineering graduate with hands-on AWS, Linux, and Infrastructure as Code experience. Proficient in Terraform, Python, and Bash scripting. Currently completing AWS re/Start and seeking entry-level DevOps or Cloud Infrastructure Engineer roles in KL/Selangor.
 
 ## 🛠️ Tech Stack
 
