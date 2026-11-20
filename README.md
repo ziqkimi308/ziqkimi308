@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Muhammad Haziq Hakimi</h1>
+  <h1>MUHAMMAD HAZIQ HAKIMI</h1>
   <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=65&pause=1000&color=00FF00&center=true&width=600&height=100&lines=Haziq+Hakimi" alt="Typing SVG" />
   <img src="./subtitle.svg" alt="subtitle" /> -->
 
